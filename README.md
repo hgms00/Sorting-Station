@@ -6,7 +6,7 @@
 >  Larissa Duarte Santana
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1G1dyyB2jy8fpW_XQ-wZS6W3tS32QUEOw/view?usp=sharing" />
+  <img src="https://drive.google.com/uc?export=view&id=1G1dyyB2jy8fpW_XQ-wZS6W3tS32QUEOw" />
 </p>
 
 ### Descrição do Projeto
