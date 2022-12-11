@@ -17,10 +17,10 @@ Então, após definida a rampa correta, um dos atuadores de 3 presentes (um para
 ### Ferramentas
 
 Esse projeto foi desenvolvido em simulação virtual a partir da utilização das seguintes ferramentas:
-- [TIA Portal V15.1](https://support.industry.siemens.com/cs/document/109761045/simatic-step-7-and-wincc-v15-1-trial-download?dti=0&pnid=14666&lc=en-WW).
-- [STEP 7 PLCSIM](https://support.industry.siemens.com/cs/document/109761045/simatic-step-7-and-wincc-v15-1-trial-download?dti=0&pnid=14666&lc=en-WW).
-- [Factory IO](https://factoryio.com).
-- Linguagem de Programação LADDER
+- [TIA Portal V15.1](https://support.industry.siemens.com/cs/document/109761045/simatic-step-7-and-wincc-v15-1-trial-download?dti=0&pnid=14666&lc=en-WW);
+- [STEP 7 PLCSIM](https://support.industry.siemens.com/cs/document/109761045/simatic-step-7-and-wincc-v15-1-trial-download?dti=0&pnid=14666&lc=en-WW);
+- [Factory IO](https://factoryio.com);
+- Linguagem de Programação LADDER.
 
 ### Endereços lógicos de entrada
 | Name | Tipo de Dado | Endereço Lógico
