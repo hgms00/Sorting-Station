@@ -1,10 +1,9 @@
 # Projeto de Automação Industrial
 ## _Estação de Classificação (Sorting Station)_
 
->
->>  Hugo Gabriel de Melo Santos <br/>
-<br/>
->>  Larissa Duarte Santana
+
+>  Hugo Gabriel de Melo Santos <br/>
+>  Larissa Duarte Santana
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1G1dyyB2jy8fpW_XQ-wZS6W3tS32QUEOw" />
